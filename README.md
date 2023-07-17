@@ -11,6 +11,8 @@ entre outros.
 Acesse o link para conferir o projeto: <a href="https://felipesouzab.github.io/coffee-delivery/" target="_blank">Coffee-Delivery</a>
 
 
+## 💻 Challenge 02 - Coffee Delivery
+
 Challenge developed during Rocketseat's ignite course, in which it was proposed to develop a coffee delivery application. this application
 it has 3 screens, the first being the presentation screen, as well as the list of all available coffees. The second screen has a
 form for registering the order data and also a shopping cart in which you can change the ordered items or remove them. A
